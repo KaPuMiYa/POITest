@@ -12,9 +12,6 @@ public class Util {
 	public static String password = "123456";
 	public static String url = "jdbc:postgresql://localhost:5432/fireData";
 
-//	 private static String url = "jdbc:postgresql://192.168.6.202:5432/kgis";
-//	 private static String username = "dataclean";
-//	 private static String password = "dataclean";
 
 	public static Connection getConnection() {
 
