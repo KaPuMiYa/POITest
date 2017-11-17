@@ -6,11 +6,7 @@ import java.sql.SQLException;
 
 public class DBUtils {
 	
-	/*private static String userName ="dataclean";
 	
-	private static String password ="dataclean";
-	
-	private static String url="jdbc:postgresql://192.168.6.202:5432/kgis";*/
 	private static String userName ="dataclean";
 	
 	private static String password ="dataclean";
